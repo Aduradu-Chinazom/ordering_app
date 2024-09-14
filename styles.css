@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.zomie{
+    font-size: 1.5rem;
+    text-align: center;
+    color: rgb(43, 6, 79);
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+body h3{
+    font-size: 1.2rem;
+    padding-left: 30px;
+    padding-top: 10px;
+    color: rgb(43, 6, 79);
+    font-family: 'Courier New', Courier, monospace;
+}
+#welcome{
+    padding-top: 30px !important;
+}
+.flex{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding: 30px;
+}
+.flex button{
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+    font-weight: 700;
+}
+.flex input{
+    border-radius: 5px;
+}
+#flex1{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding: 30px;
+}
+#flex1 button{
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+    font-weight: 700;
+}
+#flex1 input{
+    border-radius: 5px;
+}
+#flex2{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding: 30px;
+}
+#flex2 button{
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+    font-weight: 700;
+}
+#flex2 input{
+    border-radius: 5px;
+}
+#flex3{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    padding: 30px;
+}
+#flex3 button{
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+    font-weight: 700;
+}
+#flex3 input{
+    border-radius: 5px;
+}
+#fl{
+    display: flex;
+    gap: 20px;
+}
+#back_up_btn1{
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+    font-weight: 700;
+}
+#back_up_btn2{
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: blueviolet;
+    font-weight: 700;
+}
+#fle{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding: 20px 30px;
+}
